@@ -1,15 +1,13 @@
 {
-  "name": "Oak Harbor Web Designs",
-  "email": "hello@oakharbor.com",
-  "phone": "555-779-4407",
-  "phoneFormatted": "(555) 779-4407",
+  "name": "Manselle's Music Shop",
+  "email": "sales@mansellesmusic.com",
+  "phone": "503-659-9817",
+  "phoneFormatted": "(503) 659-9817",
   "address": {
-    "lineOne": "First Address Line",
-    "lineTwo": "Second Address Line, If Needed",
-    "city": "Denver",
-    "county": "CO",
-    "postcode": "80206",
-    "mapLink": "https://goo.gl/maps/UAQn4vuGDiwv7DV39"
+    "lineOne": "4808 SE Ina Ave, Portland, OR 97267",
+    "city": "Portland",
+    "county": "OR",
+    "mapLink": "https://www.google.com/maps/dir//4808+SE+Ina+Ave,+Portland,+OR+97267/@45.6359936,-122.5457664,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x5495743ef7a4dec1:0xfcc6372dc01aa78a!2m2!1d-122.612982!2d45.3973625?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D"
   },
-  "domain": "www.website.com"
+  "domain": "www.mansellesmusic.com"
 }
